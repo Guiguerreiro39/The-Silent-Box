@@ -1,0 +1,33 @@
+{
+  "name": "the-silent-box",
+  "version": "1.0.0",
+  "private": true,
+  "description": "The Silent Box",
+  "author": "Guilherme",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "bulma": "^0.9.3",
+    "gatsby": "^4.4.0",
+    "gatsby-plugin-google-analytics": "^4.4.0",
+    "gatsby-plugin-image": "^2.4.0",
+    "gatsby-plugin-netlify-cms": "^6.4.0",
+    "gatsby-plugin-sass": "^5.4.0",
+    "gatsby-plugin-sharp": "^4.4.0",
+    "gatsby-source-filesystem": "^4.4.0",
+    "gatsby-transformer-remark": "^5.4.0",
+    "gatsby-transformer-sharp": "^4.4.0",
+    "netlify-cms-app": "^2.15.63",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "sass": "^1.47.0"
+  }
+}
